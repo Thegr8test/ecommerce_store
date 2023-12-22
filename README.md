@@ -18,13 +18,13 @@ These instructions will help you set up the project on your local machine for de
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-ecommerce-project.git
+   git clone https://github.com/Thegr8test/ecommerce_store.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-ecommerce-project
+   cd ecommerce_store
    ```
 
 3. Install PHP dependencies:
